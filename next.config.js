@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  // Thay thế các tùy chọn cấu hình của bạn ở đây.
+  // Thay thế các tùy chọn cấu hình 
   // Ví dụ:
   // reactStrictMode: true,
   // images: {
